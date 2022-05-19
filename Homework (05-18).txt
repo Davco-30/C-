@@ -1,0 +1,4 @@
+Crear un programa que lea 2 números e imprima lo siguiente:
+- "Los 2 números son iguales" si los 2 números son iguales.
+- "El primer número es menor" si el primer número es menor que el segundo.
+- "El primero número e smayor"
