@@ -22,6 +22,6 @@ int main()
     if(num1 > num2){
         cout << "El primer número es mayor al segundo número.";
     }
-cd
+
     return 0;
 }

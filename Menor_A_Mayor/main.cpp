@@ -24,6 +24,7 @@ int main()
     */
 
     ///2
+
     /*
     cout << "Ingrese 3 números" << endl;
     int num1;
@@ -73,7 +74,7 @@ int main()
     */
 
     ///3
-
+    /*
     cout << "Ingrese 3 números" << endl;
     int num1;
     int num2;
@@ -106,7 +107,7 @@ int main()
     if(num1 < num2 && num1 < num3 && num2 > num3){
         cout << num1 << " " << num3 << " " << num2;
     }
-
-
-    return 0;
+    */
 }
+
+
