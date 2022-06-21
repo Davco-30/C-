@@ -13,7 +13,7 @@ int suma(int a, int b); ///Esta función declara al programa: "Se encontrará una 
 int resta(int a, int b); ///Esta función declara al programa: "Se encontrará una función ENTERA llamada 'resta' con parámetros enteros de a hasta b"
 int mult(int a, int b);
 float divide(float a, float b); ///Esta función declara al programa: "Se encontrará una función FLOTANTE llamada 'divide' con parámetros flotantes de a hasta b"
-float form_g(float a, float b, float c);
+float form_g(float a, float b, float c); ///Esta función declara al programa: "Se encontrará una función FLOTANTE llamada 'divide' con parámetros flotantes de a hasta c"
 float form_g_2(float a, float b, float c);
 
 
