@@ -43,12 +43,10 @@ int main()
     */
 
     ///3
-    /*
     int b;
     cin >> b;
 
     cout << function_prime(b);
-    */
 
     return 0;
 }
