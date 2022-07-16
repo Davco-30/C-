@@ -4,12 +4,8 @@ using namespace std;
 
 ///1. Leer n números e invertir el orden del arreglo
 
-//int function_1(array_1[], length);
-
 int main()
 {
-    ///array_1[4,5,6,7]
-    ///array_1[7,6,5,4]
 
     int n;
 
